@@ -1,0 +1,14 @@
+[{
+  "modid": "morestairsmod",
+  "name": "More Stairs Mod",
+  "description": "Just more stairs.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["uri"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
